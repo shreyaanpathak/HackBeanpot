@@ -1,2 +1,5 @@
 # Harmony
-- cd musicle
+- cd musiclifter
+- npm start
+
+**Enter your own OpenAI API key**
