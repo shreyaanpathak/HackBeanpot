@@ -13,6 +13,12 @@
   }
 }
 
+.allura-regular {
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
